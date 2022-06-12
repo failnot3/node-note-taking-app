@@ -1,3 +1,4 @@
+/* Importing the utils.js file and then logging the name variable from that file. */
 const name = require("./utils.js");
 
 // const fs = require("fs");
