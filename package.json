@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/theDTS1/node-note-taking-app/issues"
   },
-  "homepage": "https://github.com/theDTS1/node-note-taking-app#readme"
+  "homepage": "https://github.com/theDTS1/node-note-taking-app#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
 }
