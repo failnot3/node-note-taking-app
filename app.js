@@ -1,4 +1,4 @@
-require("./utils.js");
+const name = require("./utils.js");
 
 // const fs = require("fs");
 
@@ -6,5 +6,4 @@ require("./utils.js");
 
 // fs.appendFileSync("notes.txt", "\n Appended a new line!");
 
-const name = "Test123";
 console.log(name);
