@@ -1,10 +1,6 @@
-/* Importing the utils.js file and then logging the name variable from that file. */
-const name = require("./utils.js");
+/* Importing the function from the utils.js file and then calling it with the arguments 4 and -2. */
+const add = require("./utils.js");
 
-// const fs = require("fs");
+const sum = add(4, -2);
 
-// // fs.writeFileSync("notes.txt", "This file was created by NodeJS");
-
-// fs.appendFileSync("notes.txt", "\n Appended a new line!");
-
-console.log(name);
+console.log(sum);
