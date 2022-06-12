@@ -8,5 +8,5 @@ console.log("====================================");
 console.log(message);
 console.log("====================================");
 
-/* Using the validator module to check if the string is a valid email. */
-console.log(validator.isEmail("peter@example.com"));
+/* Using the validator module to check if the string is a URL. */
+// console.log(validator.isURL("https://google.com"));
