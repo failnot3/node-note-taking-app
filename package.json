@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/theDTS1/node-note-taking-app#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "validator": "^13.7.0"
   }
 }
