@@ -1,1 +1,2 @@
-This file was created by NodeJS
+This file was created by NodeJSAppended a new line!
+ Appended a new line!
