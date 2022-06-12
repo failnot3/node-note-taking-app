@@ -1,0 +1,19 @@
+{
+  "name": "note-taking-app",
+  "version": "0.1.0",
+  "description": "Notes application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDTS1/node-note-taking-app.git"
+  },
+  "author": "Drago Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theDTS1/node-note-taking-app/issues"
+  },
+  "homepage": "https://github.com/theDTS1/node-note-taking-app#readme"
+}
